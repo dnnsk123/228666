@@ -1,5 +1,12 @@
 {
     "users":[
+        {
+        "id": 1,
+        "name": "Artem",
+        "sirname": "Melnyk"
+        "photo_url": "https://upload.wikimedia.org/wikipedia/ru/thumb/7/78/Trollface.svg/1200px-Trollface.svg.png"
+        "balance": 9000000000000000
+        }
         
     ]
     
